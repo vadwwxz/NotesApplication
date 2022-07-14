@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="actionBarTitle">Notes</string>
+    <string name="plus_button_text">+</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+</resources>
